@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Busted piano",
+  "base_artist": "DEXCORE",
+  "createdAt": "2026-03-11T14:07:20.685345Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Busted piano",
+      "artist": "Dexcore",
+      "has_synced": false,
+      "path": "select/01_Busted_piano_Dexcore.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Busted piano",
+      "artist": "DEXCORE",
+      "has_synced": false,
+      "path": "select/pl_01_Busted_piano_DEXCORE.txt"
+    }
+  ]
+}
